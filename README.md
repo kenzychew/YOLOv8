@@ -1,5 +1,7 @@
 # YOLOv8 Real-Time Object Detection
 
+![YOLOv8 real-time object detection demo](assets/demo.png)
+
 Real-time object detection using YOLOv8 nano model with CUDA acceleration. Captures video from laptop webcam and displays bounding boxes for detected objects at 30+ FPS.
 
 ## Features
